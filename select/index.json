@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "インフェルノ (Cover)",
+  "base_artist": "Afterglow",
+  "createdAt": "2026-03-05T13:04:46.965459Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "インフェルノ",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/01_インフェルノ_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "インフェルノ",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": true,
+      "path": "select/02_インフェルノ_9mm_Parabellum_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "インフェルノ",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/03_インフェルノ_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ダンテズ・インフェルノ",
+      "artist": "Septicflesh",
+      "has_synced": false,
+      "path": "select/04_ダンテズ・インフェルノ_Septicflesh.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "インフェルノ (Remastered 2020)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/05_インフェルノ_(Remastered_2020)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "インフェルノ",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/06_インフェルノ_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "インフェルノ (Inferno)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/07_インフェルノ_(Inferno)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "インフェルノ",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/08_インフェルノ_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "インフェルノ",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": true,
+      "path": "select/09_インフェルノ_9mm_Parabellum_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "インフェルノ - Remastered 2020",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/10_インフェルノ_-_Remastered_2020_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mrs. GREEN APPLE - インフェルノ（Inferno）",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/11_Mrs._GREEN_APPLE_-_インフェルノ(Inferno)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "インフェルノ - Inferno",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/12_インフェルノ_-_Inferno_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "インフェルノ - Remastered 2020",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/13_インフェルノ_-_Remastered_2020_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "インフェルノ - Inferno",
+      "artist": "Mrs.GREEN APPLE",
+      "has_synced": true,
+      "path": "select/14_インフェルノ_-_Inferno_Mrs.GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "インフェルノ",
+      "artist": "Afterglow (佐倉綾音, 三澤紗千香, 加藤英美里, 日笠陽子, 金元寿子)",
+      "has_synced": false,
+      "path": "select/pl_01_インフェルノ_Afterglow_(佐倉綾音,_三澤紗千香,_加藤英美里,_日笠陽子,_金元寿子).txt"
+    }
+  ]
+}
